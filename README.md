@@ -2,3 +2,24 @@
 
 ## Laravel V8 with mongodb
 
+## clone project 
+````
+git clone https://github.com/wachira90/laravel8-mongo.git
+````
+
+## config .env 
+````
+MONGO_DB_HOST=192.168.6.150
+MONGO_DB_PORT=27017
+MONGO_DB_DATABASE=testmongo
+MONGO_DB_USERNAME=root
+MONGO_DB_PASSWORD=toor
+````
+
+## run server
+````
+php artisan serve 
+
+php artisan serve --host 0.0.0.0
+````
+
