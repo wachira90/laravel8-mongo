@@ -23,3 +23,8 @@ php artisan serve
 php artisan serve --host 0.0.0.0
 ````
 
+### install instruction
+
+here => [install-instruction.md](https://github.com/wachira90/laravel8-mongo/blob/main/install-instruction.md
+"install-instruction.md")
+
