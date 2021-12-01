@@ -16,6 +16,13 @@ MONGO_DB_USERNAME=root
 MONGO_DB_PASSWORD=toor
 ````
 
+## install package
+````
+cd laravel8-mongo
+
+composer install
+````
+
 ## run server
 ````
 php artisan serve 
